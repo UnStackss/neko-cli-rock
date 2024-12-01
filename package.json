@@ -17,6 +17,7 @@
   "activationEvents": [
     "onLanguage:neko"
   ],
+  "icon": "icon.png",
   "main": "./out/extension.js",
   "contributes": {
     "languages": [
