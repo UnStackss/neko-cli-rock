@@ -1,0 +1,15 @@
+{
+    "scopeName": "source.neko",
+    "patterns": [
+      {
+        "match": "🐱\\s*(\\w+)",
+        "name": "entity.name.tag.neko"
+      },
+      {
+        "match": "🔖\\s*version:\\s*\"([^\"]+)\"",
+        "name": "constant.numeric.neko"
+      }
+    ],
+    "repository": {}
+  }
+  
