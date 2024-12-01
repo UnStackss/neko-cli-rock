@@ -1,0 +1,34 @@
+"editor.tokenColorCustomizations": {
+  "textMateRules": [
+    {
+      "scope": "entity.cat.neko",
+      "settings": {
+        "foreground": "#FF6347"
+      }
+    },
+    {
+      "scope": "keyword.version.neko",
+      "settings": {
+        "foreground": "#7FFF00"
+      }
+    },
+    {
+      "scope": "keyword.resolved.neko",
+      "settings": {
+        "foreground": "#1E90FF"
+      }
+    },
+    {
+      "scope": "keyword.integrity.neko",
+      "settings": {
+        "foreground": "#FFD700"
+      }
+    },
+    {
+      "scope": "keyword.type.neko",
+      "settings": {
+        "foreground": "#32CD32"
+      }
+    }
+  ]
+}
