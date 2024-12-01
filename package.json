@@ -2,7 +2,7 @@
   "name": "neko-cli-rock",
   "displayName": "neko-cli-rock",
   "description": "Support and formatting for Neko-CLI's neko.rock files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
   },
